@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+body {
+    max-width: 980px;
+    margin: 0 auto;
+}
+header, aside, article, footer {
+    height: 200px;
+}
+header {
+    background-color: blue;
+}
+aside#left{
+    background-color: red;
+}
+article {
+    background-color: grey;
+}
+aside#right {
+    background-color: green;
+}    
+footer {
+    background-color: yellow;
+}
